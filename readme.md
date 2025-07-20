@@ -20,7 +20,7 @@ Este repositório contém materiais, códigos e anotações relacionados ao cont
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/Calculo_Numerico_e_Computacional.git
+    git clone https://github.com/dreyvinixz/Calculo_Numerico_e_Computacional.git
     ```
 2. Navegue pelos diretórios para acessar os códigos e materiais.
 
